@@ -1,2 +1,2 @@
-# Learning-HTMl-CSS
+# Learning-HTML-CSS
 My first repo
